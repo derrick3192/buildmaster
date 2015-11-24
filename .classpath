@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/akka-actor-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/scala-library-2.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/microba-0.4.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/akka-remote-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/akka-kernel-2.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/dispatch-json_2.9.1-0.8.5.jar"/>
+	<classpathentry kind="lib" path="lib/h2-lzf-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="lib/objenesis-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/sjson_2.9.1-0.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

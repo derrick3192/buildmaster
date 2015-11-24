@@ -1,0 +1,1 @@
+ant -f %1\Plugins\build.xml build_intel
